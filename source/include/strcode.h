@@ -124,7 +124,7 @@
 /*  -  O  O  -  O  O  */  0x00075d93  /* command ＮＰＣスネークの状態 */
 /*  -  O  O  -  O  O  */  0x0007e215  /* chara 船虫踏み潰し管理 */
 /*  -  -  O  -  -  -  */  0x0007eb71
-/*  -  -  -  O  -  -  */  0x000823b5
+/*  -  -  -  O  -  -  */  0x000823b5  /* chara ＶＲ体験版セレクト */
 /*  -  O  O  -  O  O  */  0x00084719  /* command フォーチュン戦昇降機位置取得 */
 /*  -  O  O  -  O  O  */  0x0008bffc  /* command プラグインくしゃみ */
 /*  -  O  O  -  O  O  */  0x00091159  /* command ゲットエマライフ */
@@ -310,7 +310,7 @@
 /*  -  -  O  -  -  -  */  0x0044b9c2
 /*  -  O  O  -  O  O  */  0x004508c2  /* command プットスポットライトオブジェライト管理 */
 /*  -  O  O  -  O  O  */  0x00450c64  /* command ゲット残りタイム */
-/*  O  O  -  -  -  -  */  0x004534c4
+/*  O  O  -  -  -  -  */  0x004534c4  /* chara トゥービーコンテニュード */
 /*  -  O  -  -  O  O  */  0x0045e12e  /* command StreamPauseControl */
 /*  -  O  -  -  O  O  */  0x004610f8  /* command ゲットオルガ座標 */
 /*  -  O  O  -  O  O  */  0x0046139a  /* chara ガラス弾痕 */
@@ -450,7 +450,7 @@
 /*  -  O  O  -  O  O  */  0x0068392d  /* chara M4_DEMO_GUN弾 */
 /*  O  O  O  O  O  O  */  0x00683bcc  /* chara 壁血 */
 /*  O  O  O  O  O  O  */  0x006856c1  /* command ゲームオーバー処理終了 */
-/*  O  -  -  -  -  -  */  0x0068bef1
+/*  O  -  -  -  -  -  */  0x0068bef1  /* chara クリアコード表示 */
 /*  O  O  O  -  O  O  */  0x0068cb9c  /* chara パッド振動 */
 /*  O  O  O  -  O  O  */  0x0068f6cb  /* chara 霧雨 */
 /*  O  O  O  -  O  O  */  0x00690610  /* chara シネマスクリーン */
@@ -525,14 +525,14 @@
 /*  -  -  O  -  -  -  */  0x007edc1c
 /*  O  O  O  -  O  O  */  0x007f3c88  /* command カメラ視界チェック */
 /*  -  O  O  -  O  O  */  0x007f7acf  /* command ニキータイベント大統領耐久値取得 */
-/*  O  -  -  -  -  -  */  0x007fa909
+/*  O  -  -  -  -  -  */  0x007fa909  /* chara イスのワタ */
 /*  O  O  O  O  O  O  */  0x0080b977  /* command システムコールバック */
 /*  -  -  -  O  O  O  */  0x0080fb82  /* command ＶＲゲットタイム */
 /*  -  O  -  -  O  O  */  0x008155f1  /* chara 新クリアコード表示 */
 /*  -  O  -  O  O  O  */  0x0081584f  /* command タンカーカメラステータス初期化 */
 /*  -  O  O  -  O  O  */  0x0081767c  /* chara コナミロゴ表示 */
 /*  -  -  -  O  O  O  */  0x00818b2c  /* chara ＶＲクリア */
-/*  O  -  -  -  -  -  */  0x0081aef4  (JAPANESE-ONLY)
+/*  O  -  -  -  -  -  */  0x0081aef4  /* chara スペシャルメニュー */
 /*  -  -  -  -  O  O  */  0x0081e7f6  /* command 敵兵カメラチェック初期化 */
 /*  -  O  -  O  O  O  */  0x0082a05e  /* command store_loadedvar */
 /*  -  O  O  -  O  O  */  0x0082bdc0  /* command VecLen */
@@ -555,7 +555,7 @@
 /*  O  O  O  O  O  O  */  0x0087a1c0  /* chara select */
 /*  O  O  -  -  O  O  */  0x008826b9  /* chara デモ人形 */
 /*  O  O  O  -  O  O  */  0x008862f6  /* chara くるくる物体 */
-/*  -  -  -  O  -  -  */  0x008888d3
+/*  -  -  -  O  -  -  */  0x008888d3  /* chara ＶＲ体験版タイトル */
 /*  -  O  -  -  O  O  */  0x0088cbf1  /* command ＳＥセットＶＰ */
 /*  -  -  -  -  O  O  */  0x0088ed39  /* command セットＶＲＮＧ的スコア */
 /*  -  O  -  O  O  O  */  0x0088f9b0  /* command 敵兵メモリーオールリセット */
@@ -570,7 +570,7 @@
 /*  O  O  O  -  O  O  */  0x008aa572  /* chara ロッカー */
 /*  O  O  O  -  O  O  */  0x008ac901  /* chara プットテクスチャクロスフェードターゲット無し */
 /*  -  O  O  -  O  O  */  0x008b12d1  /* command カメラ撮影時プロック */
-/*  -  -  -  O  -  -  */  0x008b12fd
+/*  -  -  -  O  -  -  */  0x008b12fd  /* chara ノード画面フレームアニメーション体験版 */
 /*  O  O  O  -  O  O  */  0x008b19f0  /* command プレイヤー無敵セット */
 /*  O  O  O  -  O  O  */  0x008b6086  /* command パッドチェック */
 /*  O  O  O  -  O  O  */  0x008b976d  /* command ロッカー状態 */
@@ -583,7 +583,7 @@
 /*  O  O  O  O  O  O  */  0x008ff6ad  /* command プラグイン自動ジャンプ */
 /*  -  -  -  O  O  O  */  0x00901fd7  /* command ＶＲ爆発範囲 */
 /*  -  -  -  -  O  O  */  0x0090342e  /* command Ｃ４管理初期化 */
-/*  O  -  -  -  -  -  */  0x00904563
+/*  O  -  -  -  -  -  */  0x00904563  /* chara PSS再生 */
 /*  O  O  O  -  O  O  */  0x009049ed  /* command プレイヤーロッカーモーション */
 /*  -  O  O  -  O  O  */  0x0090b7ec  /* chara 水面監視水飛沫 */
 /*  -  O  O  -  O  O  */  0x00912bfe  /* chara フォーチュン戦天井崩れ */
@@ -621,13 +621,13 @@
 /*  -  O  O  -  O  O  */  0x009a75e7  /* chara 携帯端末 */
 /*  -  -  -  -  O  O  */  0x009a97b2  /* command コントロール存在検査 */
 /*  O  O  O  O  O  O  */  0x009aff54  /* chara アイテム */
-/*  O  -  -  -  -  -  */  0x009b0e9f
+/*  O  -  -  -  -  -  */  0x009b0e9f  /* chara タイトル */
 /*  -  O  O  -  O  O  */  0x009b3b8b  /* chara エマ・エメリッヒ */
 /*  -  O  -  -  O  O  */  0x009b3fd5  /* chara サイファ */
 /*  -  O  O  -  O  O  */  0x009b65f0  /* chara タイマー */
 /*  O  O  O  -  O  O  */  0x009bc66f  /* chara ロープモデル２ */
 /*  O  O  O  O  O  O  */  0x009bc670  /* chara ロープモデル３ */
-/*  O  -  -  -  -  -  */  0x009c2a64
+/*  O  -  -  -  -  -  */  0x009c2a64  /* chara 操作説明表示 */
 /*  -  -  -  -  O  O  */  0x009c403e  /* command デジカメ画像セーブ */
 /*  -  O  -  -  O  O  */  0x009cf455  /* command シナリオ前装備変更 */
 /*  -  -  -  -  O  O  */  0x009d73d7  /* chara 湯気セット */
@@ -657,7 +657,7 @@
 /*  -  O  O  -  O  O  */  0x00a7195f  /* command ＮＰＣスネークのライフ */
 /*  -  O  O  -  O  O  */  0x00a741fd  /* command プラグインはしご */
 /*  -  O  O  -  O  O  */  0x00a7cb42  /* chara Ｏ２ゲージ */
-/*  O  O  -  -  -  -  */  0x00a80554
+/*  O  O  -  -  -  -  */  0x00a80554  /* chara 臨時顔アニメキャラ */
 /*  O  O  O  -  O  O  */  0x00a8560d  /* chara マンハット黄灯 */
 /*  -  O  O  -  O  O  */  0x00a85ceb  /* command フォーチュン戦昇降機ボム消去 */
 /*  O  O  O  -  O  O  */  0x00a895c4  /* chara プット頂点アニメオブジェ */
@@ -677,7 +677,7 @@
 /*  -  O  O  -  O  O  */  0x00af4cf6  /* chara かもめマネージャ */
 /*  -  O  O  -  O  O  */  0x00afa5e7  /* chara 亀甲床 */
 /*  -  O  -  -  O  O  */  0x00afdee4  /* command タイマーエンド */
-/*  O  -  -  -  -  -  */  0x00b00459
+/*  O  -  -  -  -  -  */  0x00b00459  /* command セットファークリップ */
 /*  -  O  O  O  O  O  */  0x00b030e4  /* chara 全薬莢コントロール */
 /*  -  -  O  -  -  -  */  0x00b0c115
 /*  -  -  -  O  O  O  */  0x00b10086  /* command ＶＲコンボタイム */
@@ -716,7 +716,7 @@
 /*  -  O  O  -  O  O  */  0x00ba92f5  /* command 武器アイテム取り返し */
 /*  -  O  -  -  O  O  */  0x00bb6852  /* chara 水中エマ */
 /*  O  O  O  -  O  O  */  0x00bbad24  /* chara 近景ぼかし */
-/*  O  -  -  -  -  -  */  0x00bc5a8b
+/*  O  -  -  -  -  -  */  0x00bc5a8b  /* chara 赤外線 */
 /*  -  -  O  -  -  -  */  0x00bc9497
 /*  -  O  O  O  O  O  */  0x00bcb4a2  /* command ゲームオーバー呼びわけ */
 /*  -  -  -  -  O  O  */  0x00bcee1a  /* command セットＶＲキルカウント */
