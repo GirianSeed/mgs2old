@@ -16,3 +16,6 @@ ed0cf182c9db0add717b826c332e026ba4a53cdb
 
 # mts/delay.c: stylistic change
 c8063267512084e43d8e94116b06a701d77686f0
+
+# strcode.h: fix whitespace alignment
+aa834b064e2b328daaf6415c17119cf186b7745a
